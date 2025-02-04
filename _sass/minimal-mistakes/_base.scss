@@ -33,6 +33,13 @@ h6 {
   font-weight: bold;
 }
 
+.post {
+    max-width: 700px; /* 가독성을 위해 최대 너비 설정 */
+    margin: 0 auto; /* 가운데 정렬 */
+    padding: 20px;
+}
+
+
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
