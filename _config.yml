@@ -116,7 +116,7 @@ author:
   name             : "안상준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "충남대학교"
-  location         : "대전전"
+  location         : "대전"
   email            :
   links:
     - label: "Email"
