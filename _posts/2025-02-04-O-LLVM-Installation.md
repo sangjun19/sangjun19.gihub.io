@@ -22,8 +22,8 @@ cd build
 
 ![capture2](/_posts/o-llvm_install/build.png)  
 ---
->export CC=gcc-11
-export CXX=g++-11
+>export CC=gcc-11  
+export CXX=g++-11  
 cmake -DCMAKE_BUILD_TYPE=Release -DLLVM_INCLUDE_TESTS=OFF ../obfuscator  
 
 ![capture3](/_posts/o-llvm_install/cmake.png)
