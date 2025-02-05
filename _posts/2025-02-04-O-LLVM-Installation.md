@@ -15,7 +15,11 @@ description: "O-LLVM Installation"
 
 >git clone -b llvm-4.0 https://github.com/obfuscator-llvm/obfuscator.git  
 
-![capture1](/assets/images/git_clone.png)  
+
+<p align="center">
+  <img src="/assets/images/git_clone.png" style="display: block; margin: auto;">
+</p>  
+
 ---  
 >mkdir build  
 cd build  
@@ -32,4 +36,3 @@ cmake -DCMAKE_BUILD_TYPE=Release -DLLVM_INCLUDE_TESTS=OFF ../obfuscator
 
 ![capture4](/assets/images/make-j8.png)  
 
-test
