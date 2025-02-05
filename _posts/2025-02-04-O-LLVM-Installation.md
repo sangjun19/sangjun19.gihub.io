@@ -12,6 +12,6 @@ description: "O-LLVM Installation"
 
 환경 : Welcome to Ubuntu 24.04.1 LTS (GNU/Linux 6.8.0-51-generic x86_64)
 
-![capture1](o-llvm_install_git_clone.png)  
+![capture1](./posts/o-llvm_install_git_clone.png)  
 
-![capture2](o-llvm_install_build.png)  
+![capture2](./posts/o-llvm_install_build.png)  
