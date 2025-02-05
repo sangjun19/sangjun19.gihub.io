@@ -9,10 +9,9 @@ description: "O-LLVM Installation"
 # O-LLVM 설치 방법
   
 <br>
-<p style="word-wrap: break-word; overflow-wrap: break-word;">
-  참조 : https://github.com/obfuscator-llvm/obfuscator/wiki/Installation  
-</p>
-
+'''
+참조 : https://github.com/obfuscator-llvm/obfuscator/wiki/Installation  
+'''  
 
 환경 : Ubuntu 24.04.1 LTS (GNU/Linux 6.8.0-51-generic x86_64)
 
