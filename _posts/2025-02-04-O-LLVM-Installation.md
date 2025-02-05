@@ -24,15 +24,25 @@ description: "O-LLVM Installation"
 >mkdir build  
 cd build  
 
-![capture2](/assets/images/build.png)  
+<p align="center">
+  <img src="/assets/images/build.png" style="display: block; margin: auto;">
+</p>  
+
 ---
 >export CC=gcc-11  
 export CXX=g++-11  
 cmake -DCMAKE_BUILD_TYPE=Release -DLLVM_INCLUDE_TESTS=OFF ../obfuscator  
+  
+<p align="center">
+  <img src="/assets/images/cmake.png" style="display: block; margin: auto;">
+</p>  
 
-![capture3](/assets/images/cmake.png)
 ---
 >make -j8  
-
-![capture4](/assets/images/make-j8.png)  
+ 
+<p align="center">
+  <img src="/assets/images/make-j8.png" style="display: block; margin: auto;">
+</p>  
+  
+---
 
